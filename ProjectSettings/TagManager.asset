@@ -8,6 +8,7 @@ TagManager:
   - Limits
   - Fall
   - Brick
+  - AeriLS
   layers:
   - Default
   - TransparentFX
